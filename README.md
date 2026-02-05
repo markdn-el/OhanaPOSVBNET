@@ -1,7 +1,7 @@
 # 🛒 OHANA Sales & Inventory System
 
 <p align="center">
-**A Desktop-based Point of Sale (POS) solution for "OHANA Sweet Delights"**
+**A Desktop-based Point of Sale (POS) solution for "OHANA Hardware Depot"**
 </p>
 
 ---
